@@ -64,7 +64,7 @@ A implementação desta tela é de livre escolha, poderá ser utilizado Menu/Aba
 
 
 #### Submissão
- - Criar um fork desse projeto e entregar via Pull Request
+ - Nos envie um link para download do seu código pelo email: beinlog@inlog.com.br
  	- Evitar que sacis-pererê tropecem em capivaras no lago
 
 # Boa Sorte
